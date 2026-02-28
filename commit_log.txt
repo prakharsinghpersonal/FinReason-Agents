@@ -1,0 +1,1 @@
+- Commit 2 (RAG & Tooling): Build the RAG retrieval tool connected to a corpus of financial documents (e.g., SEC filings) and integrate it as a callable node within the LangGraph.
