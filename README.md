@@ -1,0 +1,1 @@
+# FinReason-Agents\n\n**FinReason: Multi-Agent Financial Research - Collaborative multi-agent system designed to execute deep financial research.**\n\n## Tech Stack\n- PyTorch\n- RLHF\n- RAG\n- LangGraph\n
