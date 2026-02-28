@@ -1,2 +1,3 @@
 - Commit 2 (RAG & Tooling): Build the RAG retrieval tool connected to a corpus of financial documents (e.g., SEC filings) and integrate it as a callable node within the LangGraph.
 - Commit 3 (Temporal Reasoning): Implement the long-horizon memory mechanism allowing agents to maintain context over sequential financial queries and temporal events.
+- Commit 4 (RLHF Integration): Integrate the RLHF reward model interface to fine-tune or guide agent decision-making based on human preference data regarding financial summaries.
