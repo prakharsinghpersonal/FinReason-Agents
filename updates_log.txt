@@ -1,0 +1,1 @@
+- Integrate a lightweight Rust wrapper into the FinReason-Agents project to manage high-performance data ingestion pipelines, bridging the easy-to-use Python PyTorch recipes with safer, concurrent systems programming constraints.
